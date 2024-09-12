@@ -25,7 +25,7 @@
   <a href="https://www.facebook.com/profile.php?id=100004419885071" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
       alt="adam pithen wala" height="30" width="40" /></a>
-  <a href="https://www.instagram.com/shehabzemad20/" target="blank"><img align="center"
+  <a href="https://www.instagram.com/zeiad_abdelaziz/" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
       alt="_._.adam._" height="30" width="40" /></a
  <a href="https://x.com/ShehabE96685508" target="blank"><img align="center"
